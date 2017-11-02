@@ -13,3 +13,4 @@ var boutonElt = document.getElementById("bouton");
 boutonElt.addEventListener("click", function () {
     console.log("clic");
 });
+//end
